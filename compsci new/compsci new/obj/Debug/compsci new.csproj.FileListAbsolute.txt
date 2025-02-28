@@ -1,0 +1,7 @@
+H:\compsci new\compsci new\bin\Debug\compsci new.exe.config
+H:\compsci new\compsci new\bin\Debug\compsci new.exe
+H:\compsci new\compsci new\bin\Debug\compsci new.pdb
+H:\compsci new\compsci new\obj\Debug\compsci new.csproj.AssemblyReference.cache
+H:\compsci new\compsci new\obj\Debug\compsci new.csproj.CoreCompileInputs.cache
+H:\compsci new\compsci new\obj\Debug\compsci new.exe
+H:\compsci new\compsci new\obj\Debug\compsci new.pdb

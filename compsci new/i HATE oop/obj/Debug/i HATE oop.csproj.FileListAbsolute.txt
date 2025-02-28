@@ -1,0 +1,7 @@
+H:\compsci new\i HATE oop\bin\Debug\i HATE oop.exe.config
+H:\compsci new\i HATE oop\bin\Debug\i HATE oop.exe
+H:\compsci new\i HATE oop\bin\Debug\i HATE oop.pdb
+H:\compsci new\i HATE oop\obj\Debug\i HATE oop.csproj.AssemblyReference.cache
+H:\compsci new\i HATE oop\obj\Debug\i HATE oop.csproj.CoreCompileInputs.cache
+H:\compsci new\i HATE oop\obj\Debug\i HATE oop.exe
+H:\compsci new\i HATE oop\obj\Debug\i HATE oop.pdb

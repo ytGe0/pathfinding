@@ -1,0 +1,7 @@
+H:\compsci new\ruieghrjie\bin\Debug\ruieghrjie.exe.config
+H:\compsci new\ruieghrjie\bin\Debug\ruieghrjie.exe
+H:\compsci new\ruieghrjie\bin\Debug\ruieghrjie.pdb
+H:\compsci new\ruieghrjie\obj\Debug\ruieghrjie.csproj.AssemblyReference.cache
+H:\compsci new\ruieghrjie\obj\Debug\ruieghrjie.csproj.CoreCompileInputs.cache
+H:\compsci new\ruieghrjie\obj\Debug\ruieghrjie.exe
+H:\compsci new\ruieghrjie\obj\Debug\ruieghrjie.pdb
