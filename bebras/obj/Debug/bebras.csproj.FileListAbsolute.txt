@@ -1,0 +1,7 @@
+\\store\studenthomes\2024\24GM5608\compsci new\bebras\obj\Debug\bebras.csproj.AssemblyReference.cache
+\\store\studenthomes\2024\24GM5608\compsci new\bebras\obj\Debug\bebras.csproj.CoreCompileInputs.cache
+\\store\studenthomes\2024\24GM5608\compsci new\bebras\bin\Debug\bebras.exe.config
+\\store\studenthomes\2024\24GM5608\compsci new\bebras\bin\Debug\bebras.exe
+\\store\studenthomes\2024\24GM5608\compsci new\bebras\bin\Debug\bebras.pdb
+\\store\studenthomes\2024\24GM5608\compsci new\bebras\obj\Debug\bebras.exe
+\\store\studenthomes\2024\24GM5608\compsci new\bebras\obj\Debug\bebras.pdb
